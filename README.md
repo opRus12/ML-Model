@@ -1,4 +1,5 @@
 Diabetes Diagnosis Machine Learning Model - 2021
+
 Project Overview
 This project focuses on developing a machine learning model that can effectively diagnose diabetes based on various health metrics. The model was trained using real-world data and aims to assist in early detection of diabetes, offering an accessible and efficient tool for healthcare providers.
 
